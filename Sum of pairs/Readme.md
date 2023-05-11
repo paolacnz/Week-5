@@ -1,5 +1,6 @@
+
 Algoritmo sumOfPairs
-	Definir num, sum_even, salir Como Entero
+Definir num, sum_even, salir Como Entero
     sum_even <- 0
     salir <- 0
 	
